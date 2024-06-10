@@ -1,35 +1,16 @@
-# Ketmanto-Cybersecurity-Portfolio
-> Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned! 
+<h1>Hi, I'm Steven! <br/><a href="www.linkedin.com/in/steven-campbell-862258147/">Cybersecurity Professional</a>
+</p>
+</p>
 
-## Professional Statements
-I am Ketmanto Wangsa. I am a Warehouse Assistant with four years of experience in the transport industry and nearly two years in the retail sector. During remote internship at a leading US supplier, I had the opportunity to serve as both Technical Support and Team Leader of the Sourcing Team. Furthermore, I completed the IBM Engagement Specialist program to enhance my interpersonal skills.
+<p>Welcome to my cybersecurity portfolio! Here, you'll find a showcase of various tasks and projects I've completed, with more to come.<p>
 
-Recently, I completed the Google IT Support and Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. The Google IT Support and Cybersecurity Professional Certificate have prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. As of February 2024, I am preparing to take the `Linux Foundation Certified Associate (LFCA)`, `CompTIA A+` and `CompTIA Security+` certifications.
 
-## Portfolio
-> Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
 
-> Some of my documents are in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
-
-I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
-* Programming for cybersecurity tasks
-* Frameworks and controls that inform security operations
-* SIEM tools for cybersecurity
-* Detecting and responding to incidents using an intrusion detection system
-* Performing packet capture and analysis
-
-Additionally, it has paved the way for me to pursue one of the entry-level following roles:
-* Cybersecurity Analyst
-* Security Analyst
-* SOC Analyst
-* Information Security Analyst
-* IT Security Analyst
-* Cyber Defense Analyst
 
 ### 👨‍💻 Cybersecurity Projects:  
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
-| [1](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/1%20-%20Conduct%20an%20Audit) - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+| [1 - Building a Home Network](https://github.com/stevencampbell368/BuildingHomeNetwork) | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
 | [2](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/2%20-%20Network%20Security) - Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
 | [3](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/3%20-%20Linux%20%26%20SQL) - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
 | [4](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/4%20-%20Assets%20%26%20Threats%20%26%20Vulnerabilities) - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
