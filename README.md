@@ -1,99 +1,65 @@
-<h1>Creating a Network in Cisco Packet Tracer</h1>
+# Ketmanto-Cybersecurity-Portfolio
+> Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned! 
 
+## Professional Statements
+I am Ketmanto Wangsa. I am a Warehouse Assistant with four years of experience in the transport industry and nearly two years in the retail sector. During remote internship at a leading US supplier, I had the opportunity to serve as both Technical Support and Team Leader of the Sourcing Team. Furthermore, I completed the IBM Engagement Specialist program to enhance my interpersonal skills.
 
+Recently, I completed the Google IT Support and Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. The Google IT Support and Cybersecurity Professional Certificate have prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. As of February 2024, I am preparing to take the `Linux Foundation Certified Associate (LFCA)`, `CompTIA A+` and `CompTIA Security+` certifications.
 
- 
- </h2>
+## Portfolio
+> Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
 
-<h2>Description</h2>
-In this task, I created a simple network using Cisco Packet Tracer, configured the end devices, and verified connectivity.
-<br />
+> Some of my documents are in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
 
+I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
+* Programming for cybersecurity tasks
+* Frameworks and controls that inform security operations
+* SIEM tools for cybersecurity
+* Detecting and responding to incidents using an intrusion detection system
+* Performing packet capture and analysis
 
-<h2>Part 1: Building the Network</h2>
-Adding the Network Devices to the Workspace To begin, I added network devices to my workspace, including a PC, a laptop, and a cable modem. The cable modem is a hardware device that enables communication with an Internet Service Provider (ISP). It connects to the ISP via a coaxial cable and to the local network via an Ethernet cable, converting the coaxial connection to an Ethernet connection.
-<br />
-<br />
+Additionally, it has paved the way for me to pursue one of the entry-level following roles:
+* Cybersecurity Analyst
+* Security Analyst
+* SOC Analyst
+* Information Security Analyst
+* IT Security Analyst
+* Cyber Defense Analyst
 
-<b>Adding the Physical Cabling Between Devices</b>
-<p>1. I connected the PC to the wireless router using a copper straight-through cable, attaching it to the FastEthernet0 interface of the PC and the Ethernet 1 interface of the wireless router.</p>
+### 👨‍💻 Cybersecurity Projects:  
+| Projects | Skills/Knowledge Gained | 
+| :--- |:---:|
+| [1](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/1%20-%20Conduct%20an%20Audit) - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+| [2](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/2%20-%20Network%20Security) - Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
+| [3](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/3%20-%20Linux%20%26%20SQL) - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
+| [4](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/4%20-%20Assets%20%26%20Threats%20%26%20Vulnerabilities) - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
+| [5](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/5%20-%20Detection%20%26%20Response) - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
+| [6](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/6%20-%20Tcpdump%20%26%20Wireshark) - Tcpdump & Wireshark | `Packet Analyzer` | 
+| [7](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/7%20-%20IDS%20%26%20SIEM) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
+| [8](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
 
-<p align="center">
-<img src="https://imgur.com/9IWaETb.png" height="65%" width="65%" alt="PC to the wireless router via copper straight-through cable"/>
-</p>
-<p>2. Next, I connected the wireless router to the cable modem with a copper straight-through cable, attaching it to the internet interface of the router and the Port 1 interface of the cable modem.</p>
-<p align="center">
-<img src="https://imgur.com/o1Ca7BX.png" height="65%" width="65%" alt=""/>
-</p>
-<p>3. Then, I connected the cable modem to the internet cloud using a coaxial cable, attaching it to the Port 0 interface of the cable modem and the Coaxial 7 interface of the internet cloud.</p>
-<p align="center">
-<img src="https://imgur.com/qIoAItY.png" height="65%" width="65%" alt=""/>
-</p>
-<p>4. Lastly, I added a laptop to the workspace, which I will connect later on.</p>
-<p align="center">
-<img src="https://imgur.com/ei5dySb.png" height="65%" width="65%" alt=""/>
-</p>
+### Tools 
+Several tools that I used: 
+* Google Workspace (Drive, Docs, Sheets, Slides)
+* Markdown Language 
+* Tcpdump
+* Wireshark
+* Linux OS
+* SQL
+* Chronicle
+* Splunk
+* Suricata
+* Python 
 
+### Other references 
+Please have a look on other standalone portfolio that I published: 
+* Python - Cybersecurity - [Bruteforce Zipfile](https://github.com/Kwangsa19/Python-Cybersecurity-Bruteforce-zipfile)
+* Python - Cybersecurity - [Automation Case](https://github.com/Kwangsa19/Python-Cybersecurity-Automation-Case)
+* Python - Cybersecurity - [Transaction Fraud](https://github.com/Kwangsa19/Python-Cybersecurity-Transaction-Fraud) 
+* Cybersecurity - Investigation & Risk Assessment Based on [MITRE ATT&CK Framework and Open-Source Intelligence (OSINT)](https://github.com/Kwangsa19/Cybersecurity-Investigation-Risk-Report)
 
+**Stay tuned for updates!**
 
-<h2>Part 2: Configuring the End Devices and Verifying Connectivity</h2>
+This portfolio will continuously grow as I complete more certificates and projects. I encourage you to visit again to see my progress and learn more about my skills and experience.
+Thank you for your time. For more information, please connect with me on [Linkedin](linkedin.com/in/ketmanto-wangsa/).
 
-<b>Configuring the PC</b>
-<p>1. To configure the PC for the network, I selected the Desktop tab and navigated to IP Configuration to ensure that DHCP was enabled and that the PC had received an IP address.</p>
- <p> • DHCP (Dynamic Host Configuration Protocol) assigns IP addresses to devices dynamically. In my home network, the wireless router is set up to assign IP addresses to devices that request them. If DHCP were disabled, I would have had to manually assign an IP address and configure all necessary information for the PC to communicate with other devices on the network and the internet.</p>
-<p align="center">
-<img src="https://imgur.com/FqA72ss.png" height="65%" width="65%" alt=""/>
-</p>
-
-<p>2. Next, I opened Command Prompt and entered the ipconfig /all command to review the IPv4 addressing information from the DHCP server. The PC received an IPv4 address of 192.168.0.2.</p>
-<p align="center">
-<img src="https://imgur.com/mtrxgeO.png" height="65%" width="65%" alt=""/>
-</p>
-<p>3. Lastly, to confirm connectivity, I used the ping command in the command prompt to ping cisco.srv. I successfully received echo reply messages.</p>
-<p align="center">
-<img src="https://imgur.com/BnqkRhW.png" height="65%" width="65%" alt=""/>
-</p>
-
-
-<b>Configuring the Laptop</b>
-<p>1. To configure the laptop for wireless network access, I powered off the laptop, removed the Ethernet copper module, replaced it with the Wireless WPC300N module, and then powered the laptop back on.</p>
-<p align="center">
-<img src="https://imgur.com/pRok375.png" height="65%" width="65%" alt=""/>
-</p>
-
-<p>2. Next, I accessed the wireless network settings on the desktop and connected to the network.</p>
-<p align="center">
-<img src="https://imgur.com/7quLktP.png" height="65%" width="65%" alt=""/>
-</p>
-
-<p>3. Finally, to confirm connectivity, I opened the web browser and navigated to the cisco.srv webpage.</p>
-<p align="center">
-<img src="https://imgur.com/VBtzizM.png" height="65%" width="65%" alt=""/>
-</p>
-
-<p>By following these steps, I successfully created a simple network, configured the end devices, and verified their connectivity.</p>
-<p align="center">
-<img src="https://imgur.com/m0b9Exn.png" height="65%" width="65%" alt=""/>
-</p>
-
-
-<h2>Languages Used</h2>
-
-- <b>Cisco IOS CLI (Command-Line Interface):</b> Router and Switch Configuration: Configuring interfaces, routing protocols, VLANs, and other network features. 
-- <b>Bash: </b> Basic Navigation and File System Management
-
-<h2>Environments Used </h2>
-
-- <b>Cisco Packet Tracer - Networking Simulation Tool
-
-
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
