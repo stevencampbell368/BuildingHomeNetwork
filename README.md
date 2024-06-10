@@ -12,24 +12,21 @@ In this task, I created a simple network using Cisco Packet Tracer, configured t
 <p>•The first step involved adding network devices to the workspace, including a PC, a laptop, and a cable modem. The cable modem connects to the ISP via a coaxial cable and to the local network via an Ethernet cable.</p>
 
 
-<p align="center">
-<img src="https://imgur.com/PrC1z8D.png" height="65%" width="65%" alt=""/>
-</p>
-
-
-
 <b>2. Adding the Physical Cabling Between Devices</b> 
 <p>•Next, I connected the PC to the wireless router using a copper straight-through cable.</p>
-<p>•Then, I connected the wireless router to the cable modem with a copper straight-through cable.</p>
-<p>•Finally, I connected the cable modem to the internet cloud using a coaxial cable.</p>
-
-
-
 <p align="center">
-<img src="https://imgur.com/PrC1z8D.png" height="65%" width="65%" alt=""/>
+<img src="https://imgur.com/OVAkRil.png" height="65%" width="65%" alt=""/>
 </p>
 
+<p>•Then, I connected the wireless router to the cable modem with a copper straight-through cable.</p>
+<p align="center">
+<img src="https://imgur.com/Cq8LbXs.png" height="65%" width="65%" alt=""/>
+</p>
 
+<p>•Finally, I connected the cable modem to the internet cloud using a coaxial cable.</p>
+<p align="center">
+<img src="https://imgur.com/CczG1EW.png" height="65%" width="65%" alt=""/>
+</p>
 
 
 <h2>Part 2: Configuring the End Devices and Verifying Connectivity
@@ -38,13 +35,37 @@ In this task, I created a simple network using Cisco Packet Tracer, configured t
 
 <b>1. Configuring the PC</b> 
 <p>•To configure the PC, I enabled DHCP in the IP Configuration tab to obtain an IP address.</p>
+<p align="center">
+<img src="https://imgur.com/9lnAHBM.png" height="65%" width="65%" alt=""/>
+</p>
+
 <p>•I then verified the IPv4 addressing information using the ipconfig /all command.</p>
+<p align="center">
+<img src="https://imgur.com/qBTD3ta.png" height="65%" width="65%" alt=""/>
+</p>
+
 <p>•Lastly, I confirmed connectivity using the ping cisco.srv command.</p>
+<p align="center">
+<img src="https://imgur.com/rGglfjT.png" height="65%" width="65%" alt=""/>
+</p>
+
 
 
 <b>2. Configuring the Laptop</b> 
 <p>•I started by replacing the Ethernet module with the Wireless WPC300N module.</p>
+<p align="center">
+<img src="https://imgur.com/JyUdcGg.png" height="65%" width="65%" alt=""/>
+</p>
+
 <p>•Afterward, I connected to the wireless network and verified connectivity by navigating to the cisco.srv webpage.</p>
+<p align="center">
+<img src="https://imgur.com/rVr6Dug.png" height="65%" width="65%" alt=""/>
+</p>
+
+
+<p align="center">
+<img src="https://imgur.com/rgJdbVI.png" height="65%" width="65%" alt=""/>
+</p>
 
 <br />
 <p>By following these steps, I successfully created a simple network, configured the end devices, and verified their connectivity.</p>
